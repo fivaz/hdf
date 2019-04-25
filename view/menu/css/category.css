@@ -1,0 +1,59 @@
+.category
+{
+    width: 48%;
+    /*padding-right: 30px;*/
+}
+
+/*head*/
+
+.category-head{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border-bottom: 2px dashed;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.font-normal{
+    color: black;
+}
+
+.font-yellow{
+    color: rgb(255, 203, 5);
+}
+
+.articles{
+    display: flex;
+    flex-direction: column;
+    min-height: 30px;
+}
+
+.modal-category-name
+{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    flex: 7;
+}
+
+.modal-category-price
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-category-body
+{
+    display: flex;
+}
+
+.modal-category-description
+{
+
+}
+
+.category > .head
+{
+    margin-bottom: 3%;
+}

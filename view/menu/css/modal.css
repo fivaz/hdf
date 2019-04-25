@@ -1,0 +1,59 @@
+/*my modal*/
+
+.myModal
+{
+    border: 1px solid black;
+    background-color: white;
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    padding: 10px;
+}
+
+/*head*/
+
+.head-side
+{
+    flex: 0.3;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.select-lang
+{
+    /*margin-left: auto;*/
+    margin-right: 10px;
+}
+
+.head-title{
+    flex: 1;
+    text-align: center;
+}
+
+/*body*/
+
+.myModal-row{
+    display: flex;
+}
+
+.myModal-80{
+    flex: 0.8;
+    margin-right: 10px;
+}
+
+/*footer*/
+
+.myModal-footer{
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+

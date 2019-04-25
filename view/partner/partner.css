@@ -1,0 +1,88 @@
+/*@font-face {*/
+    /*font-family: font1Black;*/
+    /*src: url("../../resources/font1Black.woff");*/
+/*}*/
+
+/*.partners-header{*/
+    /*display: flex;*/
+    /*padding-top: 3%;*/
+    /*padding-right: 3%;*/
+/*}*/
+
+/*.partners-header h1{*/
+    /*flex: 1;*/
+    /*font-family:font1Black;*/
+    /*text-align: center;*/
+    /*font-size: 36px;*/
+/*}*/
+
+/*.partners-body{*/
+    /*margin-top: 10%;*/
+/*}*/
+
+/*.partner-row{*/
+    /*display: flex;*/
+    /*margin-bottom: 10%;*/
+/*}*/
+
+/*.partner-img{*/
+    /*flex: 0.4;*/
+/*}*/
+
+/*.partner-img .banner {*/
+    /*background-color: rgba(0, 0, 0, 1);*/
+    /*border: 2px solid rgba(255, 203, 5, 1);*/
+    /*box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);*/
+/*}*/
+
+/*.partner-img .shadow{*/
+    /*position: relative;*/
+    /*top: 100%;*/
+    /*right: 5%;*/
+    /*width: 110%;*/
+    /*!*background-image: url("../../resources/liftedshadow_medium.png");*!*/
+/*}*/
+
+
+
+/*.partner-info{*/
+    /*flex: 0.45;*/
+/*}*/
+
+/*.info-header{*/
+    /*display: flex;*/
+    /*padding-bottom: 5%;*/
+/*}*/
+
+/*.info-header h2{*/
+    /*flex: 1;*/
+    /*font-family: font1Black;*/
+    /*font-size:25px;*/
+/*}*/
+
+/*.info-body{*/
+    /*font-family:Enriqueta;*/
+    /*font-size: 16px;*/
+    /*text-align: justify;*/
+/*}*/
+
+.partner-header{
+    display: flex;
+    flex-direction: row;
+}
+.partner-header h2{
+flex: 1;
+}
+
+.enable{
+    color: black;
+}
+
+.disabled{
+    color: grey;
+}
+.image {
+    display: block;
+    max-width: 250px;
+    max-height: 250px;
+}

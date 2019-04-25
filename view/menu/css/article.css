@@ -1,0 +1,57 @@
+.article{
+    /*padding-bottom: 10px;*/
+    /*width: 90%;*/
+}
+
+/*head*/
+
+.article-head{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.article-description{
+    color: black;
+    text-align: justify;
+    width: 90%;
+}
+
+#highlight .article-description{
+    color: rgb(255, 203, 5);
+    text-align: justify;
+}
+
+.modal-article-name{
+    margin-right: 10px;
+    flex: 7;
+}
+
+.modal-article-price{
+
+}
+
+.article_highlight{
+    width: 45%;
+}
+
+.article-form{
+    width: 30%;
+}
+
+/*auto-complete*/
+
+.auto-complete
+{
+    margin-bottom: 1rem;
+    border: 1px solid black;
+    padding-left: 5px;
+    background-color: white;
+    color: black;
+}
+
+.auto-complete-element:hover
+{
+    background-color: black;
+    color: rgba(255, 203, 5, 1);
+}

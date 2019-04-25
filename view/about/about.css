@@ -1,0 +1,8 @@
+.about-header{
+    display: flex;
+    flex-direction: row;
+}
+
+.about-header h2{
+    flex: 1;
+}

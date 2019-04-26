@@ -4,15 +4,15 @@
 
 * A dynamic menu for all the dishes served in the restaurant with a drag and drop interface to reorder the products.
 
-* A page for the parterners of the restaurant where you can disable a partner and clients won't see it.
+* A page for the partners of the restaurant where you can disable a partner and clients won't see it.
 
-* A form for proposing events where the user can send a message to your email adresse through it.
+* A form for proposing events where the user can send a message to your email address through it.
 
 * A connection system for clients and admins.
 
 * All the site is multi-language. 
 
-##Tecnologies used:
+## Technologies used:
 
 * PHP
 * Javascript

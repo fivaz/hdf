@@ -1,4 +1,4 @@
-# Site for a fast-food restaurant / food-truck
+Site for a fast-food restaurant / food-truck
 
 * This site contains a dynamic map where you can mark the next locations of the food-truck or the location of the restaurant.
 

@@ -22,4 +22,4 @@
 * Bootstrap
 * Repactcha
 
-## You can check the website at: [hot dog faktory] (ttps://www.esig-sandbox.ch/stefanepntsf/view/menu/)
+## You can check the website at: [hot dog faktory] (https://www.esig-sandbox.ch/stefanepntsf/view/menu/)
